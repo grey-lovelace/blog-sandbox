@@ -7,7 +7,7 @@ When we meet up by our front door, my husband is wearing jeans, his new winter c
 A common measure of goal quality is the SMART goal system. Goals need to meet 5 criteria by being Specific, Measurable, Achievable, Relevant, and Time-bound. Let’s see how our goal held up:
 - Specific: We were clear that we were going on a walk together because it was unseasonably warm and we set a destination (the local park). 
 - Measurable: We agreed to the distance (to the park and back).
-- Achievable: I’ve walked to this park and back many times so I know it is an achievable distance for the amount of time we had. 
+- Achievable: I’ve walked to this park and back many times, so I know it is an achievable distance for the amount of time we had. 
 - Relevant: We agreed on a time that made sense to both of us. It was a nice day outside and the unseasonably warm temperature made it great for walking.
 - Time-bound: We had plans that evening, so we knew we had to be back by a specific time. 
 
