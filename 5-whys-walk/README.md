@@ -37,7 +37,7 @@ You may be familiar with the Lean concept of the [5 whys](https://www.lean.org/l
 
 Notice I didn’t ask why 5 times. The specific number isn’t important. We just need to get to the heart of the issue. Now we know that the cloud migration is not successful if we don’t leave the partner with the tools, knowledge and processes to resolve outages quickly. 
 
-You may be tempted to stop asking why once you tell them that reliability is a goal.  This can lead to confusion. There are architecture decisions that can improve reliability (like using multiple availability zones), but this doesn’t address the root cause. 
+You may be tempted to stop asking why once you find out that reliability is a goal.  This can lead to confusion. There are architecture decisions that can improve reliability (like using multiple availability zones), but this doesn’t address the root cause. 
 
 By asking why a couple more times, we know that we need to focus on the tools, knowledge, and processes needed to successfully resolve an outage. We will prioritize monitoring tools, playbooks and runbooks in our project plan. We know that the team needs to be trained to use these tools effectively and understand the importance of keeping them up to date. 
 
